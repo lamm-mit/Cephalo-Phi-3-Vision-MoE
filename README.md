@@ -1,4 +1,4 @@
-## Model Summary
+## Cephalo Mixture-of-Expert models based on Phi-3-Vision architecture
 
 Cephalo is a series of multimodal materials science focused vision large language models (V-LLMs) designed to integrate visual and linguistic data for advanced understanding and interaction in human-AI or multi-agent AI frameworks. 
 
@@ -10,7 +10,7 @@ This repository explains how to create a Mixture-of-Expert model based on one or
 
 Model weights and examples are provided at: [https://huggingface.co/lamm-mit/Cephalo-Phi-3-MoE-vision-128k-3x4b-beta](https://huggingface.co/lamm-mit/Cephalo-Phi-3-MoE-vision-128k-3x4b-beta)
 
-### Download MoE Model and Sample inference code
+## Download MoE Model and Sample inference code
 
 ```markdown
 pip install transformers -U
@@ -282,7 +282,7 @@ where the model generates the text after `<|assistant|>` . For multi-turn conver
 <|user|>\n<|image_1|>\n{prompt_1}<|end|>\n<|assistant|>\n{response_1}<|end|>\n<|user|>\n{prompt_2}<|end|>\n<|assistant|>\n 
 ```
 
-### Sample inference code
+## Sample inference code
 
 This code snippets show how to get quickly started on a GPU:
 
