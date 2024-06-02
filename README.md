@@ -40,7 +40,9 @@ count_parameters(moe_model)
 
 ## Make a Phi-3-V-MoE model from scratch using several pre-trained models
 
-Download .py files that implement the Phi-3-V and the Mixture-of-Expert Vision model 
+You can either download .py files from this repository (see folder `./Phi_3V_MoE/') or download them directly from our Hugging Face repository. 
+
+These codes implement the Phi-3-V and the Mixture-of-Expert Vision model from scratch. 
 
 ```markdown
 pip install huggingface_hub
