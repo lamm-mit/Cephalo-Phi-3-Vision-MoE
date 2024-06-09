@@ -348,3 +348,16 @@ By studying the behavior of ants and other living organisms, researchers can gai
 
 In summary, the image of red ants climbing over a wooden post highlights the importance of considering the interactions between materials and living organisms when designing new materials, and the potential of multi-agent AI to help achieve this goal.
 </pre>
+
+## Citation
+
+Please cite as:
+
+```bibtex
+@article{Buehler_Cephalo_2024,
+  title={Cephalo: Multi-Modal Vision-Language Models for Bio-Inspired Materials Analysis and Design},
+  author={Markus J. Buehler},
+  journal={arXiv preprint arXiv:2405.19076},
+  year={2024}
+}
+```
